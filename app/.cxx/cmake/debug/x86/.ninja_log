@@ -1,0 +1,5 @@
+# ninja log v5
+1	506	1609773402	CMakeFiles/native-lib.dir/native-lib.cpp.o	f2792c552fd82ee
+507	558	1609773402	/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ca278e5d4ac53684
+3	610	1609778048	CMakeFiles/native-lib.dir/native-lib.cpp.o	f2792c552fd82ee
+610	666	1609778048	/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ca278e5d4ac53684

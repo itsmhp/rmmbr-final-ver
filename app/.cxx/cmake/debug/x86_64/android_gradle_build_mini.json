@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/src/main/cpp/CMakeLists.txt",
+    "/Users/hanifpratama/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/hanifpratama/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/hanifpratama/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/hanifpratama/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/hanifpratama/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/debug/x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,3 @@
+/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/debug/x86'
+ninja: no work to do.

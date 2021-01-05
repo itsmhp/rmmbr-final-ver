@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library "/Users/hanifpratama/Documents/Kuliah/TKTPL/TugasAkhirSemester_1606876065_Muhammad Hanif Pratama/rmmbr/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"
